@@ -8,3 +8,6 @@ Basic server with nodeJS and Express
 - GET, POST, PUT, DELETE method
 
 tested using Postman
+
+Runtime using nodemon 
+(npm run dev)
